@@ -1,0 +1,6 @@
+body {
+    background-color: #330055;
+    background-image: url("./images/bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
